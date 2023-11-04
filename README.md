@@ -5,4 +5,4 @@ Using the Html,css,Javascript
 ```
 npx serve app
 ```
-To find age
+To find age for person it calculate age month year 
