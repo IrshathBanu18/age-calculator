@@ -1,6 +1,4 @@
-
-
-# To create a age calucator 
+# To create a age calculator 
 Using the Html,css,Javascript
 -
 - To run app
