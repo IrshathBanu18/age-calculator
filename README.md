@@ -28,6 +28,7 @@ const daysInCurrentMonth = getDaysInMonth(
 console.log(daysInCurrentMonth); // 👉️ 31
 
 // 👇️ Other Months
+
 const daysInJanuary = getDaysInMonth(2025, 1);
 console.log(daysInJanuary); // 👉️ 31
 
