@@ -33,5 +33,6 @@ const daysInJanuary = getDaysInMonth(2025, 1);
 console.log(daysInJanuary); // 👉️ 31
 
 const daysInSeptember = getDaysInMonth(2025, 9);
-console.log(daysInSeptember); // 👉️ 30
+console.log(daysInSeptember); 
+// 👉️ 30
 
