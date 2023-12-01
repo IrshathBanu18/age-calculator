@@ -1,5 +1,4 @@
-#
-To create a age calculator
+# To create a age calculator
 
 Using the Html,css,Javascript
 -
